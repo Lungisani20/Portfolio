@@ -12,7 +12,7 @@ Welcome to my portfolio! I am passionate about **data-driven solutions** that so
 
 - **Programming & Scripting:** Python, SQL, JavaScript, HTML, CSS  
 - **Data Tools:** Power BI, MySQL, Excel  
-- **Systems & Dev:** Git & GitHub, Full-Stack Development, System Analysis & Design  
+- **Systems & Dev:** Git & GitHub, System Analysis & Design  
 
 ---
 
@@ -21,4 +21,4 @@ Welcome to my portfolio! I am passionate about **data-driven solutions** that so
 ## 📫 Contact Me
 
 - **Email:** lungisanindukenhle@gmail.co.com  
-- **LinkedIn:linkedin.com/in/lungisani-ndukenhle-0789b1364
+- **LinkedIn:** linkedin.com/in/lungisani-ndukenhle-0789b1364
