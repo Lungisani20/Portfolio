@@ -1,22 +1,10 @@
-# PROJECT MANAGEMENT- BUSINESS ANALYSIS-SCRUM MASTER
-## About Me
-I am a Informatic student with a strong interest in Data Science, and Information Systems. I enjoy building practical solutions that solve real-world problems and improve business processes.
+# Ndukenhle Lungisani Mkhwanazi Portfolio
 
-## What I Do
-- Data Analysis
-- SQL Database Design
-- Power BI Dashboards
+Welcome to my professional GitHub portfolio. Here you will find projects showcasing my skills in:
 
-## Tech Stack
-- SQL
-- Python
-- Power BI
-- MySQL
-- Git & GitHub
+- Data Analysis & Dashboards  
+- SQL & Database Design  
+- System Analysis & Design  
+- Full-Stack & Software Development  
 
-  ## Career Goal
-I aim to grow into a skilled Data Scientistwho builds impactful digital solutions.
-
-## Contact
-- Email: lungisanindukenhle@Gmail.com
-- LinkedIn:linkedin.com/in/lungisani-ndukenhle-0789b1364
+Feel free to explore the repositories and reach out via email or LinkedIn for collaborations or internship opportunities.
