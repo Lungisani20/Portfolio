@@ -2,7 +2,7 @@
 
 # Ndukenhle Lungisani Mkhwanazi
 
-**Informatics Student | Aspiring Data Scientist **
+**Informatics Student | Aspiring Data Scientist**
 
 Welcome to my portfolio! I am passionate about **data-driven solutions** that solve real-world problems.
 
