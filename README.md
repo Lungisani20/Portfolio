@@ -1,5 +1,4 @@
-# NDUKENHLE LUNGISANI MKHWANAZI
-
+# PROJECT MANAGEMENT- BUSINESS ANALYSIS-SCRUM MASTER
 ## About Me
 I am a Informatic student with a strong interest in Data Science, and Information Systems. I enjoy building practical solutions that solve real-world problems and improve business processes.
 
