@@ -1,7 +1,4 @@
----
-layout: default
-title: Home
----
+
 
 # Ndukenhle Lungisani Mkhwanazi
 
