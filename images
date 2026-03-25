@@ -1,0 +1,9 @@
+portfolio/
+│
+├── _config.yml          # GitHub Pages configuration
+├── index.md             # Main Portfolio Page
+├── README.md            # GitHub repository README
+├── images/              # Screenshots or images for your projects
+├── data/                # Sample datasets (optional)
+├── docs/                # Documentation files (optional)
+└── projects/            # Full project files (optional)
